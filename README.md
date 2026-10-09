@@ -345,15 +345,15 @@ Potential extensions include geographic risk analysis, model interpretability, t
 
 ### Portfolio Overview
 
-![Portfolio Overview](images/Screenshot 2026-10-09 180715.png)
+![image alt](https://github.com/kristineng/Nova-Bank_Credit-Risk-Analytics/blob/8c32ea40b7095c72da10573e0353d85a5d460c94/images/Screenshot%202026-10-09%20180715.png)
 
 ### Risk Segmentation
 
-![Risk Segmentation](images/risk_segmentation.png)
+![image alt](https://github.com/kristineng/Nova-Bank_Credit-Risk-Analytics/blob/4f6109e6e1d5996c8772cc8049625277bcdece30/images/Screenshot%202026-10-09%20180737.png)
 
 ### Risk Drivers
 
-![Risk Drivers](images/risk_drivers.png)
+![image alt](https://github.com/kristineng/Nova-Bank_Credit-Risk-Analytics/blob/4f6109e6e1d5996c8772cc8049625277bcdece30/images/Screenshot%202026-10-09%20180754.png)
 
 
 ## 12. Skills Demonstrated
@@ -367,4 +367,5 @@ Potential extensions include geographic risk analysis, model interpretability, t
 - Power BI dashboard development and KPI reporting
 - Translating quantitative findings into practical business recommendations
 
-## 13. Data Source: https://www.facebook.com/groups/xomdata/?__cft__[0]=AZgBColPoGwxaZ25pf29dUX04r1AT0JTGPU5a31JdtqdAT_9ui01fzvTrQuqHRHLq-XWWbxY86VZkZNh9BVaKiT7SDUuTP0E0ARcsMaGI7_YOCtHT4j9eZinsTDu46JdBxeH1qih50syF6nKNzlf&__tn__=R]-R
+## 13. Data Source: 
+https://www.facebook.com/groups/xomdata/?__cft__[0]=AZgBColPoGwxaZ25pf29dUX04r1AT0JTGPU5a31JdtqdAT_9ui01fzvTrQuqHRHLq-XWWbxY86VZkZNh9BVaKiT7SDUuTP0E0ARcsMaGI7_YOCtHT4j9eZinsTDu46JdBxeH1qih50syF6nKNzlf&__tn__=R]-R
