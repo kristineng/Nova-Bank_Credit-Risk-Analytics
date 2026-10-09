@@ -26,7 +26,7 @@ Using PostgreSQL, Python and Power BI, the project transforms raw lending data i
 | Tool | Application |
 |---|---|
 | PostgreSQL | Data validation, portfolio analysis, risk segmentation and analytical views |
-| SQL | Aggregations, CTEs, window functions, percentile calculations and conditional segmentation |
+|  | Aggregations, CTEs, window functions, percentile calculations and conditional segmentation |
 | Python | Data preprocessing, feature engineering, logistic regression and model evaluation |
 | pandas | Data manipulation and preparation |
 | scikit-learn | Preprocessing pipelines, logistic regression and model evaluation |
