@@ -156,7 +156,7 @@ The dashboards allow users to explore portfolio risk patterns and compare observ
 
 ## 6. Key Findings
 
-### 1: Default Rates Increase Substantially Across Weaker Loan Grades
+### 1, Default Rates Increase Substantially Across Weaker Loan Grades
 
 | Loan Grade | Borrowers | Default Rate |
 |---|---:|---:|
@@ -172,7 +172,7 @@ The observed default rate rises sharply from grade A to grade G, indicating a st
 
 Grade G contains only 64 borrowers, so its 98.44% default rate should be interpreted cautiously because of the small sample size.
 
-### 2: Borrowers with Both High LTI and High DTI Have a Substantially Higher Default Rate
+### 2, Borrowers with Both High LTI and High DTI Have a Substantially Higher Default Rate
 
 | Affordability Segment | Borrowers | Defaults | Default Rate |
 |---|---:|---:|---:|
@@ -185,7 +185,7 @@ Borrowers with both ratios above their respective 80th-percentile thresholds had
 
 This suggests that considering multiple affordability indicators together can provide a more informative view of portfolio risk than considering either ratio in isolation.
 
-### 3: Default Rates Increase Across LTI and DTI Quintiles
+### 3, Default Rates Increase Across LTI and DTI Quintiles
 
 | Quintile | LTI Default Rate | DTI Default Rate |
 |---|---:|---:|
@@ -199,7 +199,7 @@ Both indicators exhibit a pronounced increase in observed default rates in their
 
 These are observed associations and do not establish that high LTI or DTI alone causes default.
 
-### 4: Previous Default History Is Associated with Higher Observed Risk
+### 4, Previous Default History Is Associated with Higher Observed Risk
 
 | Previous Default on File | Borrowers | Defaults | Default Rate |
 |---|---:|---:|---:|
@@ -210,7 +210,7 @@ Borrowers with a previous default indicator had approximately twice the observed
 
 Previous credit difficulties may therefore provide useful information for further risk assessment, although historical difficulties should not be treated as the sole determinant of future creditworthiness.
 
-### 5: Default Rates Differ Across Loan Purposes
+### 5, Default Rates Differ Across Loan Purposes
 
 | Loan Purpose | Borrowers | Default Rate |
 |---|---:|---:|
@@ -225,7 +225,7 @@ Debt consolidation, medical and home improvement loans had higher observed defau
 
 These differences may justify further analysis of borrower circumstances, loan terms and affordability. They do not establish that a particular loan purpose inherently makes a borrower riskier.
 
-### 6: Homeownership Categories Show Different Risk Profiles
+### 6, Homeownership Categories Show Different Risk Profiles
 
 | Homeownership | Borrowers | Default Rate |
 |---|---:|---:|
@@ -238,7 +238,7 @@ Renters had a higher observed default rate than borrowers in the mortgage and ow
 
 Homeownership should not be used as a standalone basis for lending decisions. The relationship may reflect differences in income, affordability, employment or other borrower characteristics.
 
-### 7: The Extended Logistic Regression Model Improves Predictive Discrimination
+### 7, The Extended Logistic Regression Model Improves Predictive Discrimination
 
 | Metric | Model A | Model B |
 |---|---:|---:|
@@ -261,7 +261,7 @@ The improvement does not establish that Model B is suitable for every lending sc
 
 The following recommendations are proposed based on the observed results. They require further validation before being adopted as lending policy.
 
-### 1: Strengthen Affordability Assessment Using Multiple Indicators
+### 1, Strengthen Affordability Assessment Using Multiple Indicators
 
 The 57.45% default rate among borrowers with both high LTI and high DTI indicates that the combination of these measures may help identify applications warranting closer assessment.
 
@@ -274,7 +274,7 @@ The 57.45% default rate among borrowers with both high LTI and high DTI indicate
 
 **Expected benefit:** More informative affordability assessment and earlier identification of potentially vulnerable applications without relying on a single financial ratio.
 
-### 2: Use Risk Segments to Prioritise Review, Not Automatically Reject Borrowers
+### 2, Use Risk Segments to Prioritise Review, Not Automatically Reject Borrowers
 
 The substantial differences in default rates across loan grades and affordability segments suggest that risk-based review could help allocate assessment resources.
 
@@ -287,7 +287,7 @@ The substantial differences in default rates across loan grades and affordabilit
 
 **Expected benefit:** A more structured risk assessment process that considers credit risk alongside opportunities to serve eligible borrowers responsibly.
 
-### 3: Incorporate Previous Credit Difficulties into a Broader Assessment
+### 3, Incorporate Previous Credit Difficulties into a Broader Assessment
 
 Borrowers with a previous default indicator had a 37.81% default rate, compared with 18.39% among borrowers without that indicator.
 
@@ -299,7 +299,7 @@ Borrowers with a previous default indicator had a 37.81% default rate, compared 
 
 **Expected benefit:** Better-informed credit assessment that recognises past risk signals without treating historical difficulties as the only determinant of future creditworthiness.
 
-### 4: Evaluate Loan Pricing and Terms Using Additional Evidence
+### 4, Evaluate Loan Pricing and Terms Using Additional Evidence
 
 Default rates and average interest rates differ across loan grades. However, the current analysis does not establish the optimal interest rate, prove that higher rates cause defaults or measure risk-adjusted profitability.
 
@@ -312,7 +312,7 @@ Default rates and average interest rates differ across loan grades. However, the
 
 **Expected benefit:** A stronger evidence base for assessing the balance between lending risk, borrower affordability, and sustainable returns.
 
-### 5: Monitor Fairness and Access to Credit
+### 5, Monitor Fairness and Access to Credit
 
 Nova Bank's objective is to reduce unnecessary credit risk while maintaining fair and accessible lending. Risk differences across borrower groups should therefore be evaluated carefully.
 
@@ -367,5 +367,5 @@ Potential extensions include geographic risk analysis, model interpretability, t
 - Power BI dashboard development and KPI reporting
 - Translating quantitative findings into practical business recommendations
 
-## 13. Data Source: 
+## 13. Data Source
 https://www.facebook.com/groups/xomdata/?__cft__[0]=AZgBColPoGwxaZ25pf29dUX04r1AT0JTGPU5a31JdtqdAT_9ui01fzvTrQuqHRHLq-XWWbxY86VZkZNh9BVaKiT7SDUuTP0E0ARcsMaGI7_YOCtHT4j9eZinsTDu46JdBxeH1qih50syF6nKNzlf&__tn__=R]-R
